@@ -50,7 +50,7 @@ dotnet --version
 ### Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Justine-Rainiel-Ramos/DocumentManagement_Ramos_Justine
 cd DocumentManagement
 ```
 
