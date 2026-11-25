@@ -57,7 +57,7 @@ cd DocumentManagement_Ramos_Justine
 ### Restore dependencies
 
 ```bash
-dotnet restore
+dotnet restore DocumentManagement_Ramos_Justine.csproj
 ```
 
 ### Configure the database connection
