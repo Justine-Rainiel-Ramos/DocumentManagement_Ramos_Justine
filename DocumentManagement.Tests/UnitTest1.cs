@@ -1,4 +1,4 @@
-namespace DocumentManagement.Tests;
+namespace DocumentManagementSystem.Tests;
 
 public class UnitTest1
 {
